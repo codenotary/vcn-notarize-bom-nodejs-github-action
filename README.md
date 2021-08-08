@@ -1,7 +1,5 @@
 # vcn-notarize-bom-nodejs-github-action
 
-GitHub action that uses the vcn tool from CodeNotary.com to generate and notarize the bill of materials (BoM) for Node.js projects.
-
 GitHub action that uses the **[vcn](https://github.com/codenotary/vcn)** tool from CodeNotary.com to generate and notarize the bill of materials (BoM) for [Node.js](https://nodejs.org) projects. It accepts _**package-lock.json**_ files (or directories containing such files) as input.
 
 ## How to use it
